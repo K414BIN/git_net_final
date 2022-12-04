@@ -1,0 +1,8 @@
+.vs/
+.git/
+x64/
+pumpservice/App_Data/
+pumpservice/bin/
+pumpservice/obj/
+PumpClient/bin/
+PumpClient/obj/
